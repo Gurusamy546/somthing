@@ -1,6 +1,8 @@
 body{
-  background-image: url("..\C:\Users\GURUSAMY\Desktop\demoproject\css\image\IMG_20170422_205419.jpg");
-  background-position: center;
-  background-size: cover;
-
+  background: url("C:/Users/GURUSAMY/Desktop/demoproject/frame4.jpg");
+}
+.cat{
+  
+  width: 500;
+  height: 500;
 }
